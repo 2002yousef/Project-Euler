@@ -2,7 +2,7 @@
 If we list all the natural numbers below $10$ that are multiples of $3$ or $5$, we get $3, 5, 6$ and $9$. The sum of these multiples is $23$.
 
 ## Approach
-The problem is approached using arithmetic series broken up to 3 steps.
+The problem is approached using arithmetic series broken up to 3 steps.  
 Arithmetic series rule: n/2(2a + (n-1)d) where a is the first term, d is the difference and n is the number of terms.
 
 ## Step 1
